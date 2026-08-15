@@ -2,6 +2,8 @@
 
 A modern, responsive, and professional multi-page website for **Skill Grow Institute**, built using **HTML, CSS, and JavaScript**.
 
+---
+
 ## 🚀 Features
 
 - Fully Responsive Design
@@ -23,6 +25,8 @@ A modern, responsive, and professional multi-page website for **Skill Grow Insti
 - Google Fonts
 - Professional Footer
 
+---
+
 ## 📄 Pages
 
 - Home
@@ -31,6 +35,8 @@ A modern, responsive, and professional multi-page website for **Skill Grow Insti
 - Admission
 - Gallery
 - Contact
+
+---
 
 ## 🎓 Courses
 
@@ -41,6 +47,8 @@ A modern, responsive, and professional multi-page website for **Skill Grow Insti
 - Digital Marketing
 - SEO & Ranking
 
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -50,58 +58,95 @@ A modern, responsive, and professional multi-page website for **Skill Grow Insti
 - Google Fonts
 - Google Maps Embed
 
+---
+
 ## 📁 Project Structure
 
+```text
 skill-grow-institute-website/
+│
+├── index.html
+├── courses.html
+├── about.html
+├── admission.html
+├── gallery.html
+├── contact.html
+│
+└── assets/
+    │
+    ├── style.css
+    ├── script.js
+    │
+    └── images/
+        ├── admission-flyer-1.png
+        ├── admission-flyer-2.png
+        ├── course-flyer.png
+        ├── classroom-learning.jpg
+        ├── interactive-workshop.jpg
+        ├── student-activity.jpg
+        ├── hands-on-session.jpg
+        └── learning-environment.jpg
+```
 
-├── index.html  
-├── courses.html  
-├── about.html  
-├── admission.html  
-├── gallery.html  
-├── contact.html  
-
-└── assets/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── style.css  
-&nbsp;&nbsp;&nbsp;&nbsp;├── script.js  
-&nbsp;&nbsp;&nbsp;&nbsp;└── images/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── admission-flyer-1.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── admission-flyer-2.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── course-flyer.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── classroom-learning.jpg  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── interactive-workshop.jpg  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── student-activity.jpg  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── hands-on-session.jpg  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── learning-environment.jpg  
+---
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+The website is fully optimized for:
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
+- 🖥️ Desktop
+- 💻 Laptop
+- 📱 Tablet
+- 📲 Mobile Devices
+
+The layout automatically adjusts according to the screen size for a smooth and professional user experience.
+
+---
+
+## ✨ Website Highlights
+
+- Clean and modern UI
+- Professional blue, white and gold color theme
+- Smooth hover effects
+- Mobile responsive navigation
+- Interactive course cards
+- Responsive gallery layout
+- Category-based gallery filters
+- Admission form
+- Contact form
+- Google Maps location
+- Fast and lightweight frontend
+
+---
 
 ## 📍 Contact Information
 
-**Skill Grow Institute**
+### Skill Grow Institute
 
-- WhatsApp: 0310 0678033
-- Call: 0341 6685251
-- Location: Gulberg Housing Society, Fort Abbas
+**WhatsApp:** 0310 0678033  
+**Call:** 0341 6685251  
+**Location:** Gulberg Housing Society, Fort Abbas
+
+---
 
 ## 👨‍💻 Author
 
-**Muhammad Hamza**  
-Full Stack Developer
+### Muhammad Hamza
 
-**GitHub:**  
+**Full Stack Developer**
+
+GitHub:  
 https://github.com/hamzazkriya02
 
-**LinkedIn:**  
+LinkedIn:  
 https://www.linkedin.com/in/muhammad-hamza-315hz02
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub.
+## ⭐ Support
+
+If you like this project, consider giving it a **⭐ Star** on GitHub.
+
+---
+
+© 2026 Skill Grow Institute. All Rights Reserved.
